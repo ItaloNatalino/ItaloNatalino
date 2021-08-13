@@ -25,6 +25,9 @@
   <img align="center" alt="ItaloNatalino" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="ItaloNatalino" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   
+	  ![Snake animation](https://github.com/italoNatalino/italoNatalino/blob/output/github-contribution-grid-snake.svg)
+
+	
 <!--
 **ItaloNatalino/ItaloNatalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
