@@ -1,14 +1,13 @@
 ### Opa galera, Ítalo Natalino na área! 👋✌
 
 - 🔭 No momento buscando novas oportunidades profissionais
-- 🌱 Atualmente estudando Python e HTML
+- 🌱 Atualmente estudando Java, Kotlin e HTML
 - ⚡ Tentando conciliar Biblioteconomia com programação (e conseguindo!)
 
 <div>
   <a href="https://github.com/ItaloNatalino">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=ItaloNatalino&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloNatalino&&layout=compact&hide=shell&theme=vision-friendly-dark"/>
- <img width="148" align="left" height="180" src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif">
 </div>
  <br>
 <div  align="center"> 
