@@ -1,8 +1,8 @@
 ### Opa galera, Ítalo Natalino na área! 👋✌
 
-- 🔭 No momento buscando novas oportunidades profissionais
-- 🌱 Atualmente estudando Java, Kotlin e HTML
-- ⚡ Tentando conciliar Biblioteconomia com programação (e conseguindo!)
+- 🔭 Buscando novas oportunidades profissionais
+- 🌱 Estudando Javascript, HTML e CSS
+- ⚡ Conciliando Biblioteconomia com programação
 
 <div>
   <a href="https://github.com/ItaloNatalino">
